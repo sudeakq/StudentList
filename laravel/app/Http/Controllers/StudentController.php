@@ -24,7 +24,7 @@ class StudentController extends Controller
   
     public function show(string $id)
     {
-     $student = $this->student->find($id);  
+     return $student = $this->student->find($id);  
     }
 
     public function update(Request $request, string $id)
