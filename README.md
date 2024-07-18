@@ -17,41 +17,40 @@ MySQL or any other database server installed and running
 ### Backend (Laravel)
 Clone the repository:
 
-bash
+
 git clone https://github.com/your-username/student-management-system.git
 cd student-management-system/backend
 Install PHP dependencies:
 
-bash
 composer install
 Set up your environment variables by copying the .env.example file to .env and update the database configuration:
 
-bash
+
 cp .env.example .env
 Generate the application key:
 
-bash
+
 php artisan key:generate
 Run the database migrations:
 
-bash
+
 php artisan migrate
 Start the Laravel development server:
 
-bash
+
 php artisan serve
 Frontend (Vite + React)
 Navigate to the frontend directory:
 
-bash
+
 cd ../lbs-frontend
 Install JavaScript dependencies:
 
-bash
+
 npm install
 Start the Vite development server:
 
-bash
+
 npm run dev
 
 
