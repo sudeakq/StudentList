@@ -17,7 +17,6 @@ MySQL or any other database server installed and running
 ### Backend (Laravel)
 Clone the repository:
 
-
 git clone https://github.com/your-username/student-management-system.git
 cd student-management-system/backend
 Install PHP dependencies:
