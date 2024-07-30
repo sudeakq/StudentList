@@ -64,6 +64,7 @@ POST /api/student - Add a new student
 PUT /api/student/{id} - Update an existing student
 DELETE /api/student/{id} - Delete a student
 
+
 ### Contributing
 To contribute to this project, please follow these steps:
 
