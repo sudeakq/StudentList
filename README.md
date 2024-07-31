@@ -10,6 +10,7 @@ Delete a student
 Prerequisites
 Before you begin, ensure you have met the following requirements:
 
+
 Node.js and npm installed on your machine
 PHP and Composer installed on your machine
 MySQL or any other database server installed and running
