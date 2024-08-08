@@ -24,7 +24,6 @@ Install PHP dependencies:
 composer install
 Set up your environment variables by copying the .env.example file to .env and update the database configuration:
 
-
 cp .env.example .env
 Generate the application key:
 
