@@ -44,7 +44,6 @@ Navigate to the frontend directory:
 cd ../lbs-frontend
 Install JavaScript dependencies:
 
-
 npm install
 Start the Vite development server:
 
