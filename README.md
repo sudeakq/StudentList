@@ -31,7 +31,6 @@ Generate the application key:
 php artisan key:generate
 Run the database migrations:
 
-
 php artisan migrate
 Start the Laravel development server:
 
